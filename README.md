@@ -12,12 +12,12 @@
 
 - 📫 How to reach me **oussamaabouyacoub11@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/oussama-abouyacoub-297519219/](https://www.linkedin.com/in/oussama-abouyacoub-297519219/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/01Oussama001/](https://www.linkedin.com/in/01Oussama001/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/01Oussama001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="01Oussama001" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/oussama-abouyacoub-297519219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oussama-abouyacoub-297519219" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/01Oussama001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="01Oussama001" height="30" width="40" /></a>
 <a href="https://instagram.com/01oussama001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="01Oussama001" height="30" width="40" /></a>
 <a href="https://facebook.com/01oussama001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="01Oussama001" height="30" width="40" /></a>
 </p>
